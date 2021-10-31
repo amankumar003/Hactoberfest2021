@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     cout<<"     DIAMOND PATTERN IN C++   "<<endl;
-    cout<<"NO OF ROWS:";
+    cout<<"ENTER NUMBER OF ROWS:";
     int n;
     cin>>n;
    
