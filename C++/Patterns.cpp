@@ -5,7 +5,7 @@ int main(){
 
     cout<<"      BUTTERFLY PATTERN IN C++    "<<endl;
 
-    cout<<"NO OF ROWS:";             
+    cout<<"ENTER NO OF ROWS:";             
 
     int n;
     cin>>n;
